@@ -8,6 +8,10 @@
       <e p="Photoshot.BL" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Model" t="Include">
+          <e p="Colors" t="Include">
+            <e p="Color.cs" t="Include" />
+            <e p="Colors.cs" t="Include" />
+          </e>
           <e p="Formats" t="Include" />
           <e p="Tools" t="Include">
             <e p="IToggleable.cs" t="Include" />

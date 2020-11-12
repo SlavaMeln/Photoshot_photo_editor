@@ -38,6 +38,8 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Model\Colors\Color.cs" />
+        <Compile Include="Model\Colors\Colors.cs" />
         <Compile Include="Model\Tools\IToggleable.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
