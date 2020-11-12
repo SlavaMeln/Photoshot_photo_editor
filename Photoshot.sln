@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photoshot.BL", "Photoshot.BL\Photoshot.BL.csproj", "{92620AA0-E867-42BB-ABD3-B070C6667A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photoshot.View", "Photoshot.View\Photoshot.View.csproj", "{DED7D235-526D-487D-8423-D9C5314ECE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92620AA0-E867-42BB-ABD3-B070C6667A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92620AA0-E867-42BB-ABD3-B070C6667A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92620AA0-E867-42BB-ABD3-B070C6667A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92620AA0-E867-42BB-ABD3-B070C6667A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED7D235-526D-487D-8423-D9C5314ECE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED7D235-526D-487D-8423-D9C5314ECE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED7D235-526D-487D-8423-D9C5314ECE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED7D235-526D-487D-8423-D9C5314ECE10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
