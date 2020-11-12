@@ -4,25 +4,66 @@
     <projectFile>Photoshop.View/Photoshop.View.csproj</projectFile>
     <projectFile>Photoshot.View/Photoshot.View.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0985db1c-6b32-479a-81b9-a4929e1abd46" name="Default Changelist" comment="" />
+    <list default="true" id="0985db1c-6b32-479a-81b9-a4929e1abd46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Photoshot.BL/Model/Tools/IToggleable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photoshot.BL/Photoshot.BL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Photoshot.BL/Photoshot.BL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photoshot.BL/obj/Debug/Photoshot.BL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Photoshot.BL/obj/Debug/Photoshot.BL.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Photoshop.View/MainWindow.xaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Photoshop.View/MainWindow.xaml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Slava/RiderProjects/Photoshot_photo_editor/Photoshop.View/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Photoshot.BL/Class1.cs" />
+        <option value="$PROJECT_DIR$/Photoshot.BL/Model/Tools/IToggleable.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1kBnH4RSg46TBdBVxOCBbdoiqDP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,8 +133,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -106,5 +171,9 @@
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
     <state x="141" y="156" key="SettingsEditor/0.0.1280.1024@0.0.1280.1024" timestamp="1605184584483" />
+    <state x="232" y="244" key="Vcs.Push.Dialog.v2" timestamp="1605190307525">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="232" y="244" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1605190307525" />
   </component>
 </project>
