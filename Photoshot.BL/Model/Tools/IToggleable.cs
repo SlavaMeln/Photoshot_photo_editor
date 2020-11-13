@@ -2,6 +2,7 @@
 {
     public interface IToggleable
     {
+        ITool GetCurrentTool();
         void OnToggle();
     }
 }
